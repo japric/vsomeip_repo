@@ -1,0 +1,10 @@
+<manifest>
+  <remote name="origin" fetch="https://github.com/japric/" />
+
+  <default revision="main" remote="origin" />
+
+  <project name="vsomeip" path="vsomeip" revision="vsomeip_demo" />
+  <project name="capicxx-core-runtime" path="capicxx-core-runtime" revision="vsomeip_demo" />
+  <project name="capicxx-someip-runtime" path="capicxx-someip-runtime" revision="vsomeip_demo" />
+  <project name="vsomeip-demo" path="vsomeip-demo" revision="master" />
+</manifest>
