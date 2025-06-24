@@ -1,5 +1,5 @@
 <manifest>
-  <remote name="origin" fetch="https://github.com/japric/" />
+  <remote name="origin" fetch="git@github.com:japric/" />
 
   <default revision="main" remote="origin" />
 
