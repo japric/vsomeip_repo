@@ -11,4 +11,6 @@
     </project>
     <project name="commonapi_core_generator" path="prebuilts/commonapi_core_generator" revision="master" />
     <project name="commonapi_someip_generator" path="prebuilts/commonapi_someip_generator" revision="master" />
+    <project name="capicxx-core-tools" path="capicxx-core-tools" revision="vsomeip_demo" />
+    <project name="googletest" path="googletest" revision="vsomeip_demo" />
 </manifest>
