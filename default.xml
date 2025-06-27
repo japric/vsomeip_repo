@@ -8,6 +8,7 @@
     <project name="capicxx-someip-runtime" path="capicxx-someip-runtime" revision="vsomeip_demo" />
     <project name="vsomeip-demo" path="vsomeip-demo" revision="master">
         <linkfile dest="CMakeLists.txt" src="CMakeLists.txt" />
+        <linkfile dest="gen.sh" src="gen.sh" />
     </project>
     <project name="commonapi_core_generator" path="prebuilts/commonapi_core_generator" revision="master" />
     <project name="commonapi_someip_generator" path="prebuilts/commonapi_someip_generator" revision="master" />
